@@ -3,14 +3,14 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Plain {
+public class Airplane {
     StorageManager storageManager = new StorageManager();
     Scanner scanner = new Scanner(System.in);
     ArrayList<BusinessClassSeats> businessClassSeats = new ArrayList<>();
     ArrayList<EconomyClassSeats> economyClassSeats = new ArrayList<>();
     ArrayList<Passenger> bookedSeats = new ArrayList<>();
 
-    Plain() {
+    Airplane() {
     }
 
     public void setSeats() {

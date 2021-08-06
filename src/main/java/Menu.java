@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Menu {
     private Scanner scanner = new Scanner(System.in);
-    private Plain airplane = new Plain();
+    private Airplane airplane = new Airplane();
 
     public void starts() {
         startsMenu();
