@@ -10,6 +10,7 @@ Application has following functions:
 ```
 
 Console output examples:
+
 <img src="images/startView.PNG">
 <img src="images/viewSeats.PNG">
 <img src="images/reserveSeats.PNG">
